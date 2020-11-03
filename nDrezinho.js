@@ -17,6 +17,9 @@
       "https://i.imgur.com/Rm7iWdd.png",
       "https://i.imgur.com/gCO3WRO.jpg",
       "https://i.imgur.com/sYJDyBN.png",
+      "https://i.imgur.com/jE7tGq1.jpg",
+      "https://i.imgur.com/K9yK3ZR.png",
+      "https://i.imgur.com/Gp525rC.png",
     ],
 
     handleImages: function (lstImgs, time) {
